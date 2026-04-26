@@ -3,7 +3,7 @@
 
 <ul>
 <li>
-Acesse a publicação no Linkedin que falará mais <a href="https:">aqui!</a>
+Acesse a publicação no Linkedin que falará mais <a href="https://www.linkedin.com/posts/anderson-rangel-8a4463259_python-aprendizado-codigo-ugcPost-7454180236117667840-8ErW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-a_zwBpyX2zw1gcwS6ClQd3oNXd61KvXM">aqui!</a>
 </li>
 </ul>
 
